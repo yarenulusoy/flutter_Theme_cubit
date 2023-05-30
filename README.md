@@ -1,16 +1,7 @@
 # bloc_cubit
 
-A new Flutter project.
+Dark and light themes were changed using Bloc(Cubit) state management.
 
-## Getting Started
+![bloc_cubit-–-main dart-_bloc_cubit_-2023-05-30-18-55-33-_online-video-cutter com_](https://github.com/yarenulusoy/flutter_theme_cubit/assets/45559372/d46616d0-2fe2-497b-9ece-902b04bc3b9d)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
