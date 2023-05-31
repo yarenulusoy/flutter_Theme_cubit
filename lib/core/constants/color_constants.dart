@@ -4,8 +4,6 @@ class ColorConstants {
   static ColorConstants instance = ColorConstants._init();
 
   ColorConstants._init();
-
-  //singleton yapı olduğu için constructordan türeyemez. _init yaparak dışarıya kapatarak kullanıyoruz.
   final black = const Color(0xff000000);
   final white = const Color(0xffffffff);
   final gray = const Color(0xffF5F5F5);
